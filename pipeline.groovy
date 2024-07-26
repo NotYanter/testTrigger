@@ -23,7 +23,7 @@ pipeline {
         stage('Test') {
             steps {
                 // Your test steps go here
-                echo 'Testing...'
+                echo 'Test.........öasdjföasjfajdf'
             }
         }
         stage('Deploy') {
