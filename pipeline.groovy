@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     triggers {
-        pollSCM('H/5 * * * *') // This sets the polling interval to every 5 minutes
+        pollSCM('H/2 * * * *') // This sets the polling interval to every 5 minutes
     }
 
     stages {
