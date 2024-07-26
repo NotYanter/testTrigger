@@ -29,7 +29,8 @@ pipeline {
         stage('Deploy') {
             steps {
                 // Your deploy steps go here
-                echo 'Deploying...'
+                echo 'Wie viele SAP Programmierer braucht man, um eine Glühbirne zu wechseln?
+Keinen. Das ist ein Hardwareproblem....'
             }
         }
     }
